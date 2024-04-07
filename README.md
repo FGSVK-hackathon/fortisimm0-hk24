@@ -17,8 +17,8 @@ To make it easier to present, we created this sample, which you can edit and use
 In the next part, we recommend displaying all important shields for your project: https://github.com/badges/shields
 -->
 
-[![All Contributors](https://img.shields.io/github/contributors/hackkosice/i-demoed-hk24?style=flat-square)](https://github.com/hackkosice/i-demoed-hk24/graphs/contributors)
-[![Activity](https://img.shields.io/github/commit-activity/m/hackkosice/i-demoed-hk24?style=flat-square)](https://github.com/hackkosice/i-demoed-hk24/pulse)  
+[![All Contributors](https://img.shields.io/github/contributors/FGSVK-hackathon/fortisimm0-hk24?style=flat-square)](https://github.com/FGSVK-hackathon/fortisimm0-hk24/graphs/contributors)
+[![Activity](https://img.shields.io/github/commit-activity/m/FGSVK-hackathon/fortisimm0-hk24?style=flat-square)](https://github.com/FGSVK-hackathon/fortisimm0-hk24/pulse)  
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 
@@ -33,9 +33,13 @@ It can contain some technologies, and what is the outcome of the project.
 
 ## Other Project repositories
 
-<!--
-If your project is constructed out of multiple Repositories, you can specify them here:
--->
+The backend for transmitting data from client to the ST Controller over HTTP and Serial:
+
+[FGSVK-hackathon/Hack-Server](https://github.com/FGSVK-hackathon/Hack-Server)
+
+The frontend for generating data for ST Controller:
+
+[FGSVK-hackathon/WebApp](https://github.com/FGSVK-hackathon/WebApp)
 
 ## Documentation
 
