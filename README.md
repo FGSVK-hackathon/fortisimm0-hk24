@@ -16,7 +16,7 @@
 
 
 
-The project is a unification of the SMT32 with the Multifunctional Shield, whcih is used as a playback device for customizable user input, carried over a REST API server from a Web App. It posesses several capabilities, such as extended melody playback, interactive piano melody maker and a precursor for Text-to-Speach output.
+The project is a unification of the SMT32 with the Multifunctional Shield, whcih is used as a playback device for customizable user input, carried over a REST API server from a Web App. It posesses several capabilities, such as extended melody playback, interactive piano melody maker and a precursor for Text-to-Speech output.
 
 ![image](.template_images/Mid.png)
 
