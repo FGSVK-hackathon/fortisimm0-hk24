@@ -42,27 +42,29 @@ The frontend for generating data for ST Controller:
 [FGSVK-hackathon/WebApp](https://github.com/FGSVK-hackathon/WebApp)
 
 ## Documentation
+Project structure based on platform.io project structure with python scripts for communication over serial with STM32
 
-<!--
-Documentation is a crucial part of every project, but also maybe during the hackathon, you did not have time to create it. We recommend coming back later and filling in this part, for example, with https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis
--->
+```
+include/
+lib/
+src/              STM32
+test/             python scripts for communication over seerial and data conversion
+platformio.ini    platform.io configuration
+```
 
 
 ## Contributors ✨
 
-Thanks go to these wonderful people
-<!--
-Here, you can show off all your cool teammates with whom you created this project.
-If you want to automate it, you can use a cool bot: https://allcontributors.org/
--->
+[@Peter-Iglarcik](https://www.github.com/Peter-Iglarcik)
+[@Odrisko](https://www.github.com/Ondrisko)
+[@MackoSKZH](https://www.github.com/MackoSKZH)
+[@LukasDrsman](https://www.github.com/LukasDrsman)
+
+
 
 ## License
-
-<!-- You can use this section to specify the license for this project under which it can be distributed. -->
+The Unlicense
 
 ## Thanks
-
-<!-- You can use this section to thank people who helped you create this awesome project outside of your team -->
-
-![image](.template_images/Bot.png)
+We thank [@Annefxx](https://www.github.com/Annefxx) for making [@MackoSKZH](https://www.github.com/MackoSKZH) smile all day 😊.
 
