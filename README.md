@@ -1,8 +1,3 @@
-<!-- 
-This repository is to show the cool project you created.
-To make it easier to present, we created this sample, which you can edit and use for your HK project.
--->
-
 ![image](.template_images/Top.png)
 
 <p align="center">
@@ -13,9 +8,6 @@ To make it easier to present, we created this sample, which you can edit and use
 
 &nbsp;
 
-<!--
-In the next part, we recommend displaying all important shields for your project: https://github.com/badges/shields
--->
 
 [![All Contributors](https://img.shields.io/github/contributors/FGSVK-hackathon/fortisimm0-hk24?style=flat-square)](https://github.com/FGSVK-hackathon/fortisimm0-hk24/graphs/contributors)
 [![Activity](https://img.shields.io/github/commit-activity/m/FGSVK-hackathon/fortisimm0-hk24?style=flat-square)](https://github.com/FGSVK-hackathon/fortisimm0-hk24/pulse)  
@@ -24,9 +16,7 @@ In the next part, we recommend displaying all important shields for your project
 
 
 
-A quick short description of what this project is about. It should be explained in
-3 - 4 four sentences to catch the eye of the viewer of the Githu repository. 
-It can contain some technologies, and what is the outcome of the project.
+The project is a unification of the SMT32 with the Multifunctional Shield, whcih is used as a playback device for customizable user input, carried over a REST API server from a Web App. It posesses several capabilities, such as extended melody playback, interactive piano melody maker and a precursor for Text-to-Speach output.
 
 ![image](.template_images/Mid.png)
 
